@@ -1,4 +1,4 @@
-# nfl-database
+# NFL Database
 A SQLite database of NFL teams and games (dating back to 1970) and offensive player stats (dating back to 2009) taken by way of screen scraping the NFL.com website.
 
 ## Table Structure
