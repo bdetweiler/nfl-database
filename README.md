@@ -106,3 +106,4 @@ A SQLite database of NFL teams and games (dating back to 1970) and offensive pla
 | KICKOFFS_AVERAGE | Numeric | | | | Kickoffs - returned |
 | RECEIVING_LONG_TD | Varchar | | | | Receiving yards longest went for a touchdown ('1' or '0') |
 | RUSH_LONG_TD | Varchar | | | | Rushing yards longest went for a touchdown ('1' or '0') |
+| KICKOFFS_RETURNED_AVERAGE | Numeric | | | | Average number of yards kickoffs returned for |
