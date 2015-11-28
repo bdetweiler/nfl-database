@@ -1,6 +1,13 @@
 # nfl-database
 A SQLite database of NFL teams and games (dating back to 1970) and offensive player stats (dating back to 2009) taken by way of screen scraping the NFL.com website.
 
+## Version 2015.w06.b001
+
+Versioning is as follows: {YEAR}.w{WEEK}.b{BUILD} 
+{YEAR} = latest season of data (Pro Bowl and Super Bowl games are counted as the previous year's season)
+{WEEK} = Latest week of data
+{BUILD} lates update (can include historical data or other fixes to the data).
+
 ## Table Structure
 
 ###TEAM
