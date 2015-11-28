@@ -1,4 +1,4 @@
-# nfl-database
+# NFL Database
 A SQLite database of NFL teams and games (dating back to 1970) and offensive player stats (dating back to 2009) taken by way of screen scraping the NFL.com website.
 
 ## Version 2015.w06.b001
@@ -111,4 +111,6 @@ Versioning is as follows: {YEAR}.w{WEEK}.b{BUILD}
 | KICKOFFS_TOUCHBACKS | Numeric | | | | Kickoffs - touchbacks |
 | KICKOFFS_RETURNED | Numeric | | | | Kickoffs - returned |
 | KICKOFFS_AVERAGE | Numeric | | | | Kickoffs - returned |
-
+| RECEIVING_LONG_TD | Varchar | | | | Receiving yards longest went for a touchdown ('1' or '0') |
+| RUSH_LONG_TD | Varchar | | | | Rushing yards longest went for a touchdown ('1' or '0') |
+| KICKOFFS_RETURNED_AVERAGE | Numeric | | | | Average number of yards kickoffs returned for |
